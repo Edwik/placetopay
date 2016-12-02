@@ -41,7 +41,7 @@ $(document).ready(function() {
   $('.test').popup({
       position : 'right center',
       target   : '.test2',
-      html  : '<img src="images/card-help.png"></img>'
+      html  : '<img src="images/card-help.PNG"></img>'
     });
 
   $('#mail').focusout(function(){
